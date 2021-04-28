@@ -1,0 +1,1719 @@
+﻿Log file open, 04/28/21 14:01:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: My3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.857384
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-0
+LogInit: Engine Version: 4.23.1-0+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-0+++UE4+Release-4.23
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: Microsoft Remote Display Adapter
+LogInit: Compiled (64-bit): Nov 21 2020 15:21:43
+LogInit: Compiled with Visual C++: 19.16.27044.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/THIS/UE_4.23.1-1/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Engine.ini]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Engine.ini]
+[2021.04.28-05.01.16:701][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Engine.ini]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Engine.ini]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.28-05.01.16:701][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Engine.ini]
+[2021.04.28-05.01.16:701][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Engine.ini]
+[2021.04.28-05.01.16:748][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.28-05.01.16:748][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.28-05.01.16:749][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.28-05.01.16:788][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.28-05.01.16:797][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.28-05.01.16:804][  0]LogHAL: Display: Platform has ~ 16 GB [17083387904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.28-05.01.16:804][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.28-05.01.16:804][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:804][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.28-05.01.16:804][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.28-05.01.16:805][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.28-05.01.16:810][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.28-05.01.16:810][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.28-05.01.16:810][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Config/Windows/Engine.ini]
+[2021.04.28-05.01.16:819][  0]LogInit: Computer: DESKTOP-S53VFKC
+[2021.04.28-05.01.16:819][  0]LogInit: User: hhj32
+[2021.04.28-05.01.16:819][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.28-05.01.16:819][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.28-05.01.16:820][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.28-05.01.16:820][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.28-05.01.16:820][  0]LogMemory: Process Physical Memory: 106.03 MB used, 106.04 MB peak
+[2021.04.28-05.01.16:820][  0]LogMemory: Process Virtual Memory: 101.79 MB used, 101.79 MB peak
+[2021.04.28-05.01.16:820][  0]LogMemory: Physical Memory: 6135.89 MB used,  10156.10 MB free, 16291.99 MB total
+[2021.04.28-05.01.16:820][  0]LogMemory: Virtual Memory: 4688.89 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2021.04.28-05.01.16:836][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.28-05.01.17:721][  0]LogInit: Using OS detected language (ko-KR).
+[2021.04.28-05.01.17:721][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.04.28-05.01.17:805][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.04.28-05.01.18:296][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.28-05.01.18:832][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.28-05.01.18:832][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.28-05.01.21:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.28-05.01.21:511][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.28-05.01.21:628][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.04.28-05.01.21:628][  0]LogD3D11RHI:       5980/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.28-05.01.21:706][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.04.28-05.01.21:706][  0]LogD3D11RHI:       5980/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2021.04.28-05.01.21:710][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.28-05.01.21:710][  0]LogD3D11RHI:       0/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.28-05.01.21:710][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.28-05.01.21:731][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.28-05.01.21:732][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.28-05.01.21:732][  0]LogWindows: EnumDisplayDevices:
+[2021.04.28-05.01.21:732][  0]LogWindows:    0. 'Microsoft Remote Display Adapter' (P:1 D:1)
+[2021.04.28-05.01.21:732][  0]LogWindows:    1. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:732][  0]LogWindows:    2. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:732][  0]LogWindows:    3. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:732][  0]LogWindows:    4. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:733][  0]LogWindows:    5. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:733][  0]LogWindows:    6. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:733][  0]LogWindows:    7. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:733][  0]LogWindows:    8. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:733][  0]LogWindows:    9. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:733][  0]LogWindows:    10. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:733][  0]LogWindows:    11. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:734][  0]LogWindows:    12. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:734][  0]LogWindows:    13. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:734][  0]LogWindows:    14. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:734][  0]LogWindows:    15. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.04.28-05.01.21:734][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2021.04.28-05.01.21:734][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.04.28-05.01.21:734][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.04.28-05.01.21:734][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.04.28-05.01.21:734][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.04.28-05.01.21:825][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.28-05.01.21:963][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.28-05.01.22:875][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.04.28-05.01.22:922][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.04.28-05.01.22:942][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.04.28-05.01.22:960][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.04.28-05.01.23:018][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.04.28-05.01.23:080][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.04.28-05.01.23:112][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.28-05.01.23:132][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.04.28-05.01.23:158][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.04.28-05.01.23:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.04.28-05.01.23:259][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.04.28-05.01.23:407][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.04.28-05.01.23:407][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.04.28-05.01.23:443][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.04.28-05.01.23:443][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.04.28-05.01.23:479][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.04.28-05.01.23:479][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.04.28-05.01.23:479][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.28-05.01.23:678][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.28-05.01.24:380][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Intermediate/Shaders/WorkingDirectory/15528/).
+[2021.04.28-05.01.24:380][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hhj32/AppData/Local/Temp/UnrealShaderWorkingDir/1E46ECC6418F627B50C4C1B029769924/'.
+[2021.04.28-05.01.24:402][  0]LogXGEController: Cleaning working directory: C:/Users/hhj32/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.28-05.01.24:402][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.28-05.01.24:402][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.28-05.01.24:402][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.28-05.01.26:790][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.28-05.01.27:405][  0]LogDerivedDataCache: Loaded boot cache 0.62s 73MB ../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/DerivedDataCache/Boot.ddc.
+[2021.04.28-05.01.27:405][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/DerivedDataCache/Boot.ddc
+[2021.04.28-05.01.27:405][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.28-05.01.27:405][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.28-05.01.27:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.28-05.01.27:419][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2021.04.28-05.01.27:420][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2021.04.28-05.01.27:420][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.28-05.01.27:420][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.28-05.01.27:500][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.04.28-05.01.28:383][  0]LogSlate: Using FreeType 2.6.0
+[2021.04.28-05.01.29:079][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.28-05.01.31:228][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2021.04.28-05.01.36:109][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.28-05.01.39:791][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.28-05.01.39:791][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.28-05.01.39:791][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.28-05.01.39:791][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.28-05.01.39:792][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.28-05.01.40:778][  0]LogNetVersion: My3 1.0.0, NetCL: 0, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3866946828)
+[2021.04.28-05.01.49:998][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.047803 seconds
+[2021.04.28-05.01.50:004][  0]LogUObjectArray: 43433 objects as part of root set at end of initial load.
+[2021.04.28-05.01.50:004][  0]LogUObjectAllocator: 7546424 out of 0 bytes used by permanent object pool.
+[2021.04.28-05.01.50:004][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.28-05.02.05:018][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.28-05.02.05:056][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.28-05.02.05:868][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.04.28-05.02.05:874][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.04.28-05.02.05:957][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.04.28-05.02.05:986][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.04.28-05.02.07:633][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.28-05.02.08:428][  0]LogOcInput: OculusInput pre-init called
+[2021.04.28-05.02.08:498][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.28-05.02.08:498][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.28-05.02.09:447][  0]LogEngine: Initializing Engine...
+[2021.04.28-05.02.09:474][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.28-05.02.09:498][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.023 s
+[2021.04.28-05.02.10:460][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.28-05.02.10:873][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.28-05.02.10:977][  0]LogInit: XAudio2 using '원격 오디오' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.04.28-05.02.11:363][  0]LogInit: FAudioDevice initialized.
+[2021.04.28-05.02.11:363][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.28-05.02.11:521][  0]LogDerivedDataCache: Saved boot cache 0.16s 73MB ../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/DerivedDataCache/Boot.ddc.
+[2021.04.28-05.02.11:522][  0]LogInit: Texture streaming: Enabled
+[2021.04.28-05.02.11:891][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.28-05.02.11:891][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.28-05.02.11:901][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.28-05.02.12:320][  0]LogInit: Transaction tracking system initialized
+[2021.04.28-05.02.12:706][  0]BlueprintLog: New page: 에디터 로드
+[2021.04.28-05.02.13:786][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.04.28-05.02.17:590][  0]LogFileCache: Scanning file cache for directory 'D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/' took 0.06s
+[2021.04.28-05.02.17:590][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.28-05.02.17:590][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.28-05.02.20:991][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.04.28-05.02.21:000][  0]Cmd: MAP LOAD FILE="../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/0Server_Map/Server_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-05.02.21:025][  0]LightingResults: New page: 라이팅 빌드
+[2021.04.28-05.02.21:126][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.02.21:160][  0]MapCheck: New page: 맵 체크
+[2021.04.28-05.02.21:160][  0]LightingResults: New page: 라이팅 빌드
+[2021.04.28-05.02.21:425][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.04.28-05.02.51:859][  0]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.02.52:504][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.28-05.02.52:594][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.28-05.02.52:594][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-05.02.52:595][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.149ms.
+[2021.04.28-05.02.52:595][  0]LogFileHelpers: Loading map 'Server_Map' took 31.595
+[2021.04.28-05.02.53:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.02.53:901][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.02.53:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.02.53:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.02.53:963][  0]LogCollectionManager: Loaded 0 collections in 0.001101 seconds
+[2021.04.28-05.02.54:012][  0]LogFileCache: Scanning file cache for directory 'D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Collections/' took 0.00s
+[2021.04.28-05.02.54:012][  0]LogFileCache: Scanning file cache for directory 'D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/Developers/hhj32/Collections/' took 0.00s
+[2021.04.28-05.02.54:012][  0]LogFileCache: Scanning file cache for directory 'D:/자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/Collections/' took 0.00s
+[2021.04.28-05.02.54:012][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.04.28-05.02.54:029][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2862 classes and 678 folders.
+[2021.04.28-05.02.54:068][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.28-05.02.55:727][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.28-05.02.55:867][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.04.28-05.02.56:527][  0]LogSlate: Took 0.014276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.28-05.02.56:618][  0]LogSlate: Took 0.089629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.04.28-05.02.56:660][  0]LogSlate: Took 0.041780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.04.28-05.02.56:712][  0]LogSlate: Took 0.051726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.28-05.02.56:777][  0]LogSlate: Took 0.022870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.28-05.02.57:285][  0]LogRenderer: Reallocating scene render targets to support 924x448 Format 10 NumSamples 1 (Frame:1).
+[2021.04.28-05.02.57:634][  0]LogSlate: Took 0.022859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.28-05.02.57:803][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.28-05.02.57:803][  0]LogLoad: (Engine Initialization) Total time: 116.02 seconds
+[2021.04.28-05.02.57:803][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.28-05.02.58:028][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.28-05.02.59:047][  9]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.28-05.03.01:658][ 30]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2021.04.28-05.03.03:649][ 50]LogAssetRegistry: Asset discovery search completed in 92.4213 seconds
+[2021.04.28-05.03.03:652][ 50]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.04.28-05.03.05:812][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.04.28-05.03.39:997][ 83]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/0MainMenu_Map/UMG/ServerEntry.ServerEntry
+[2021.04.28-05.03.40:638][ 83]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2021.04.28-05.03.41:961][ 83]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/0MainMenu_Map/UMG/MainMenuWidget.MainMenuWidget
+[2021.04.28-05.03.42:229][ 83]LogLinker: Warning: '{FileName}': 애셋 이름을 해석할 수 없습니다. 로드에 실패했습니다.
+[2021.04.28-05.03.42:237][ 83]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/0Server_Map/Server_GameMode.Server_GameMode
+[2021.04.28-05.03.42:965][ 83]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ParagonKallari/Characters/Heroes/Kallari/KallariPlayerCharacter.KallariPlayerCharacter
+[2021.04.28-05.03.43:232][ 83]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/0Server_Map/MoveDoor.MoveDoor
+[2021.04.28-05.03.43:500][ 83]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/ParagonKallari/Characters/Heroes/Kallari/Animations/Attack_Melee_A_Montage.Attack_Melee_A_Montage
+[2021.04.28-05.03.45:035][ 83]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.04.28-05.03.46:015][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.28-05.03.46:036][ 83]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.04.28-05.03.46:215][ 83]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.28-05.03.46:602][ 83]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DealDamage.DealDamage
+[2021.04.28-05.03.46:858][ 83]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/0Server_Map/BP_AIController.BP_AIController
+[2021.04.28-05.03.47:455][ 83]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.03.47:661][ 83]LogSlate: Took 0.077775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.28-05.03.47:939][ 84]LogSlate: Took 0.005079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.28-05.04.21:693][705]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.04.28-05.04.24:938][ 63]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.04.50:477][  9]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.04.28-05.04.50:506][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.04.50:506][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-05.04.50:547][  9]PIE: New page: PIE 세션: Server_Map (2021. 4. 28. 오후 11:04:50)
+[2021.04.28-05.04.50:574][  9]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.28-05.04.50:585][  9]LogPlayLevel: Creating play world package: /Game/0Server_Map/UEDPIE_1_Server_Map
+[2021.04.28-05.04.50:663][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077966s)
+[2021.04.28-05.04.50:691][  9]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.04.50:691][  9]LogPlayLevel: PIE: World Init took: (0.028106s)
+[2021.04.28-05.04.50:691][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0Server_Map/Server_Map.Server_Map to /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map (0.106300s)
+[2021.04.28-05.04.50:758][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.04.28-05.04.50:759][  9]LogLoad: Game class is 'Server_GameMode_C'
+[2021.04.28-05.04.50:768][  9]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.04.50
+[2021.04.28-05.04.50:859][  9]LogWorld: Bringing up level for play took: 0.099708
+[2021.04.28-05.04.50:869][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.04.50:870][  9]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2021.04.28-05.04.50:870][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.04.50:870][  9]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.04.28-05.04.50:870][  9]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.04.28-05.04.50:871][  9]LogInit: WinSock: I am DESKTOP-S53VFKC (192.168.0.2:0)
+[2021.04.28-05.04.50:871][  9]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.04.28-05.04.50:880][  9]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.04.50:894][  9]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2021.04.28-05.04.50:895][  9]PIE: /Game/0Server_Map/UEDPIE_1_Server_Map 에 대한 에디터에서 플레이 시작 시간: -0.181
+[2021.04.28-05.04.50:954][  9]LogInit: XAudio2 using '원격 오디오' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.04.28-05.04.50:977][  9]LogInit: FAudioDevice initialized.
+[2021.04.28-05.04.50:985][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.04.50:985][  9]LogNet: Browse: 127.0.0.1:17777//Game/0MainMenu_Map/MainMenuMap
+[2021.04.28-05.04.50:985][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.04.50:985][  9]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2021.04.28-05.04.50:985][  9]LogTemp: Display: ParseSettings for PendingNetDriver
+[2021.04.28-05.04.50:986][  9]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.04.28-05.04.50:986][  9]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.04.50:986][  9]LogNet: Game client on port 17777, rate 10000
+[2021.04.28-05.04.50:989][  9]PIE: /Game/0MainMenu_Map/MainMenuMap 에 대한 에디터에서 플레이 시작 시간: -0.087
+[2021.04.28-05.04.50:995][  9]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.04.28-05.04.51:001][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.04.51:001][  9]LogNet: Browse: 127.0.0.1:17777//Game/0MainMenu_Map/MainMenuMap
+[2021.04.28-05.04.51:002][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.04.51:002][  9]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2021.04.28-05.04.51:002][  9]LogTemp: Display: ParseSettings for PendingNetDriver
+[2021.04.28-05.04.51:002][  9]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.04.28-05.04.51:002][  9]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.04.51:003][  9]LogNet: Game client on port 17777, rate 10000
+[2021.04.28-05.04.51:005][  9]PIE: /Game/0MainMenu_Map/MainMenuMap 에 대한 에디터에서 플레이 시작 시간: -0.072
+[2021.04.28-05.04.51:008][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.04.51:009][  9]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65273
+[2021.04.28-05.04.51:016][  9]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 128029099075038166062248203253060229201159255003012066129175
+[2021.04.28-05.04.51:016][  9]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65274
+[2021.04.28-05.04.51:016][  9]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 137200182190006182020093089108034099123173149179142066208127
+[2021.04.28-05.04.51:086][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.04.28-05.04.51:115][  9]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 128029099075038166062248203253060229201159255003012066129175
+[2021.04.28-05.04.51:116][  9]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 137200182190006182020093089108034099123173149179142066208127
+[2021.04.28-05.04.51:397][ 10]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65273
+[2021.04.28-05.04.51:397][ 10]LogHandshake: SendChallengeAck. InCookie: 128029099075038166062248203253060229201159255003012066129175
+[2021.04.28-05.04.51:397][ 10]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65273
+[2021.04.28-05.04.51:397][ 10]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.04.51:397][ 10]LogNet: NotifyAcceptedConnection: Name: Server_Map, TimeStamp: 04/28/21 14:04:51, [UNetConnection] RemoteAddr: 127.0.0.1:65273, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.04.51:397][ 10]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65273, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.04.51:397][ 10]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65274
+[2021.04.28-05.04.51:397][ 10]LogHandshake: SendChallengeAck. InCookie: 137200182190006182020093089108034099123173149179142066208127
+[2021.04.28-05.04.51:397][ 10]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65274
+[2021.04.28-05.04.51:398][ 10]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.04.51:398][ 10]LogNet: NotifyAcceptedConnection: Name: Server_Map, TimeStamp: 04/28/21 14:04:51, [UNetConnection] RemoteAddr: 127.0.0.1:65274, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.04.51:398][ 10]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65274, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.04.51:399][ 10]LogNetVersion: My3 1.0.0.0, NetCL: 0, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2355481902)
+[2021.04.28-05.04.51:399][ 10]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.04.51:399][ 10]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.04.51:408][ 11]LogNet: NotifyAcceptingChannel Control 0 server World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map: Accepted
+[2021.04.28-05.04.51:408][ 11]LogNet: Remote platform little endian=1
+[2021.04.28-05.04.51:408][ 11]LogNet: This platform little endian=1
+[2021.04.28-05.04.51:408][ 11]LogNet: NotifyAcceptingChannel Control 0 server World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map: Accepted
+[2021.04.28-05.04.51:408][ 11]LogNet: Remote platform little endian=1
+[2021.04.28-05.04.51:408][ 11]LogNet: This platform little endian=1
+[2021.04.28-05.04.51:409][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.04.28-05.04.51:410][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.28-05.04.51:431][ 12]LogNet: Login request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695 userId: NULL:DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695 platform: NULL
+[2021.04.28-05.04.51:431][ 12]LogNet: Login request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5 userId: NULL:DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5 platform: NULL
+[2021.04.28-05.04.51:432][ 12]LogNet: Welcomed by server (Level: /Game/0Server_Map/UEDPIE_1_Server_Map, Game: /Game/0Server_Map/Server_GameMode.Server_GameMode_C)
+[2021.04.28-05.04.51:432][ 12]LogLoad: LoadMap: 127.0.0.1:17777//Game/0Server_Map/UEDPIE_1_Server_Map?game=/Game/0Server_Map/Server_GameMode.Server_GameMode_C
+[2021.04.28-05.04.51:432][ 12]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2021.04.28-05.04.51:433][ 12]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.04.51:525][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.04.28-05.04.51:577][ 12]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.04.51:577][ 12]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.04.51:587][ 12]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_2_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.04.51
+[2021.04.28-05.04.51:612][ 12]LogWorld: Bringing up level for play took: 0.034119
+[2021.04.28-05.04.51:612][ 12]LogLoad: Took 0.178762 seconds to LoadMap(/Game/0Server_Map/UEDPIE_1_Server_Map)
+[2021.04.28-05.04.51:612][ 12]LogNet: Welcomed by server (Level: /Game/0Server_Map/UEDPIE_1_Server_Map, Game: /Game/0Server_Map/Server_GameMode.Server_GameMode_C)
+[2021.04.28-05.04.51:612][ 12]LogLoad: LoadMap: 127.0.0.1:17777//Game/0Server_Map/UEDPIE_1_Server_Map?game=/Game/0Server_Map/Server_GameMode.Server_GameMode_C
+[2021.04.28-05.04.51:612][ 12]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2021.04.28-05.04.51:612][ 12]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.04.51:703][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.04.28-05.04.51:754][ 12]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.04.51:754][ 12]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.04.51:764][ 12]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_3_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.04.51
+[2021.04.28-05.04.51:765][ 12]LogWorld: Bringing up level for play took: 0.010476
+[2021.04.28-05.04.51:766][ 12]LogLoad: Took 0.153334 seconds to LoadMap(/Game/0Server_Map/UEDPIE_1_Server_Map)
+[2021.04.28-05.04.51:785][ 13]LogNet: Client netspeed is 10000
+[2021.04.28-05.04.51:785][ 13]LogNet: Join request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695?SplitscreenCount=1
+[2021.04.28-05.04.51:786][ 13]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.04.51:803][ 13]LogRenderer: Reallocating scene render targets to support 1280x716 Format 10 NumSamples 1 (Frame:1).
+[2021.04.28-05.04.51:803][ 13]LogScript: Warning: Script Msg: Divide by zero detected: 179.999756 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.04.51:917][ 13]LogNet: Join succeeded: DESKTOP-S53VFKC-EF66
+[2021.04.28-05.04.51:917][ 13]LogNet: Client netspeed is 10000
+[2021.04.28-05.04.51:917][ 13]LogNet: Join request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5?SplitscreenCount=1
+[2021.04.28-05.04.51:918][ 13]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.04.51:918][ 13]LogScript: Warning: Script Msg: Divide by zero detected: 179.999756 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.04.51:930][ 13]LogNet: Join succeeded: DESKTOP-S53VFKC-48C3
+[2021.04.28-05.04.51:981][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.04.51:994][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.04.52:008][ 14]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.04.52:008][ 14]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.04.52:087][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.04.52:099][ 14]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.04.52:100][ 14]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.04.52:100][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.04.54:139][165]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.04.54:139][165]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.04.54:140][165]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.04.54:140][165]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.04.54:303][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.04.28-05.04.54:423][191]LogSlate: Window 'My3 게임 미리보기 Client 1 (64-비트/PCD3D_SM5)' being destroyed
+[2021.04.28-05.04.54:442][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.04.54:448][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.04.54:448][191]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_3_Server_Map
+[2021.04.28-05.04.54:455][191]LogSlate: Window 'My3 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2021.04.28-05.04.54:490][191]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.04.54:510][191]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.04.28-05.04.54:511][191]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.04.28-05.04.54:511][191]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5, Channels: 23, Time: 2021.04.28-05.04.54
+[2021.04.28-05.04.54:511][191]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5
+[2021.04.28-05.04.54:511][191]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.04.28-05.04.54:523][191]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_2_Server_Map
+[2021.04.28-05.04.54:523][191]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.04.54:531][191]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.04.28-05.04.54:531][191]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.04.28-05.04.54:531][191]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695, Channels: 23, Time: 2021.04.28-05.04.54
+[2021.04.28-05.04.54:531][191]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695
+[2021.04.28-05.04.54:532][191]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.04.28-05.04.54:532][191]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_1_Server_Map
+[2021.04.28-05.04.54:533][191]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.04.54:537][191]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.04.28-05.04.54:537][191]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.04.28-05.04.54:537][191]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65274, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5
+[2021.04.28-05.04.54:537][191]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65274, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5, Channels: 23, Time: 2021.04.28-05.04.54
+[2021.04.28-05.04.54:537][191]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65274, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-48C388D246248D13A415E8A7B9351ED5
+[2021.04.28-05.04.54:537][191]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65273, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695
+[2021.04.28-05.04.54:537][191]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65273, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695, Channels: 23, Time: 2021.04.28-05.04.54
+[2021.04.28-05.04.54:537][191]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65273, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-EF663C91442F8F16B7E9F0890BF3E695
+[2021.04.28-05.04.54:537][191]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.04.28-05.04.54:538][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-05.04.54:538][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.04.54:609][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.04.28-05.04.54:658][192]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.28-05.04.54:658][192]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.04.28-05.04.54:658][192]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.04.28-05.04.58:743][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.28-05.05.18:945][629]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.04.28-05.05.18:945][629]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.28-05.05.31:732][629]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-05.05.31:874][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.04.28-05.05.31:906][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.28-05.05.31:943][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.28-05.05.31:979][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.28-05.05.32:020][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.28-05.05.32:056][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.28-05.05.32:091][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.28-05.05.32:127][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.28-05.05.32:160][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.04.28-05.05.32:194][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.28-05.05.52:117][  9]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.04.28-05.05.52:144][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.05.52:144][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-05.05.52:144][  9]PIE: New page: PIE 세션: Server_Map (2021. 4. 28. 오후 11:05:52)
+[2021.04.28-05.05.52:144][  9]LogPlayLevel: Creating play world package: /Game/0Server_Map/UEDPIE_1_Server_Map
+[2021.04.28-05.05.52:197][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052334s)
+[2021.04.28-05.05.52:197][  9]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.05.52:197][  9]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2021.04.28-05.05.52:197][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0Server_Map/Server_Map.Server_Map to /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map (0.053331s)
+[2021.04.28-05.05.52:233][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.04.28-05.05.52:233][  9]LogLoad: Game class is 'Server_GameMode_C'
+[2021.04.28-05.05.52:243][  9]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.05.52
+[2021.04.28-05.05.52:247][  9]LogWorld: Bringing up level for play took: 0.013597
+[2021.04.28-05.05.52:247][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.05.52:248][  9]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2021.04.28-05.05.52:248][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.05.52:248][  9]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.04.28-05.05.52:248][  9]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.04.28-05.05.52:248][  9]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.04.28-05.05.52:248][  9]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.05.52:248][  9]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2021.04.28-05.05.52:250][  9]PIE: /Game/0Server_Map/UEDPIE_1_Server_Map 에 대한 에디터에서 플레이 시작 시간: -0.826
+[2021.04.28-05.05.52:253][  9]LogInit: XAudio2 using '원격 오디오' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.04.28-05.05.52:276][  9]LogInit: FAudioDevice initialized.
+[2021.04.28-05.05.52:284][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.05.52:285][  9]LogNet: Browse: 127.0.0.1:17777//Game/0MainMenu_Map/MainMenuMap
+[2021.04.28-05.05.52:285][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.05.52:285][  9]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2021.04.28-05.05.52:285][  9]LogTemp: Display: ParseSettings for PendingNetDriver
+[2021.04.28-05.05.52:285][  9]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.04.28-05.05.52:285][  9]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.05.52:285][  9]LogNet: Game client on port 17777, rate 10000
+[2021.04.28-05.05.52:288][  9]PIE: /Game/0MainMenu_Map/MainMenuMap 에 대한 에디터에서 플레이 시작 시간: -0.789
+[2021.04.28-05.05.52:293][  9]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.04.28-05.05.52:300][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.05.52:300][  9]LogNet: Browse: 127.0.0.1:17777//Game/0MainMenu_Map/MainMenuMap
+[2021.04.28-05.05.52:300][  9]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.05.52:300][  9]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2021.04.28-05.05.52:300][  9]LogTemp: Display: ParseSettings for PendingNetDriver
+[2021.04.28-05.05.52:301][  9]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.04.28-05.05.52:301][  9]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.05.52:301][  9]LogNet: Game client on port 17777, rate 10000
+[2021.04.28-05.05.52:304][  9]PIE: /Game/0MainMenu_Map/MainMenuMap 에 대한 에디터에서 플레이 시작 시간: -0.773
+[2021.04.28-05.05.52:307][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.05.52:307][  9]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49297
+[2021.04.28-05.05.52:307][  9]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 051141137241096038252247229021221093158064117128165101225074
+[2021.04.28-05.05.52:307][  9]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49298
+[2021.04.28-05.05.52:307][  9]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 074190132076055042178144142175096000133130201228199067237208
+[2021.04.28-05.05.52:309][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.04.28-05.05.52:310][  9]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 051141137241096038252247229021221093158064117128165101225074
+[2021.04.28-05.05.52:311][  9]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 074190132076055042178144142175096000133130201228199067237208
+[2021.04.28-05.05.52:393][ 10]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49297
+[2021.04.28-05.05.52:393][ 10]LogHandshake: SendChallengeAck. InCookie: 051141137241096038252247229021221093158064117128165101225074
+[2021.04.28-05.05.52:394][ 10]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49297
+[2021.04.28-05.05.52:394][ 10]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.05.52:394][ 10]LogNet: NotifyAcceptedConnection: Name: Server_Map, TimeStamp: 04/28/21 14:05:52, [UNetConnection] RemoteAddr: 127.0.0.1:49297, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.05.52:394][ 10]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49297, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.05.52:394][ 10]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49298
+[2021.04.28-05.05.52:394][ 10]LogHandshake: SendChallengeAck. InCookie: 074190132076055042178144142175096000133130201228199067237208
+[2021.04.28-05.05.52:394][ 10]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49298
+[2021.04.28-05.05.52:394][ 10]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.05.52:394][ 10]LogNet: NotifyAcceptedConnection: Name: Server_Map, TimeStamp: 04/28/21 14:05:52, [UNetConnection] RemoteAddr: 127.0.0.1:49298, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.05.52:394][ 10]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49298, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.05.52:395][ 10]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.05.52:395][ 10]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.05.52:403][ 11]LogNet: NotifyAcceptingChannel Control 0 server World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map: Accepted
+[2021.04.28-05.05.52:403][ 11]LogNet: Remote platform little endian=1
+[2021.04.28-05.05.52:403][ 11]LogNet: This platform little endian=1
+[2021.04.28-05.05.52:403][ 11]LogNet: NotifyAcceptingChannel Control 0 server World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map: Accepted
+[2021.04.28-05.05.52:403][ 11]LogNet: Remote platform little endian=1
+[2021.04.28-05.05.52:403][ 11]LogNet: This platform little endian=1
+[2021.04.28-05.05.52:404][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.04.28-05.05.52:405][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.04.28-05.05.52:411][ 12]LogNet: Login request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E userId: NULL:DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E platform: NULL
+[2021.04.28-05.05.52:411][ 12]LogNet: Login request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C userId: NULL:DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C platform: NULL
+[2021.04.28-05.05.52:412][ 12]LogNet: Welcomed by server (Level: /Game/0Server_Map/UEDPIE_1_Server_Map, Game: /Game/0Server_Map/Server_GameMode.Server_GameMode_C)
+[2021.04.28-05.05.52:412][ 12]LogLoad: LoadMap: 127.0.0.1:17777//Game/0Server_Map/UEDPIE_1_Server_Map?game=/Game/0Server_Map/Server_GameMode.Server_GameMode_C
+[2021.04.28-05.05.52:412][ 12]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2021.04.28-05.05.52:412][ 12]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.05.52:449][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.04.28-05.05.52:503][ 12]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.05.52:503][ 12]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.05.52:513][ 12]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_2_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.05.52
+[2021.04.28-05.05.52:515][ 12]LogWorld: Bringing up level for play took: 0.011295
+[2021.04.28-05.05.52:515][ 12]LogLoad: Took 0.102809 seconds to LoadMap(/Game/0Server_Map/UEDPIE_1_Server_Map)
+[2021.04.28-05.05.52:516][ 12]LogNet: Welcomed by server (Level: /Game/0Server_Map/UEDPIE_1_Server_Map, Game: /Game/0Server_Map/Server_GameMode.Server_GameMode_C)
+[2021.04.28-05.05.52:516][ 12]LogLoad: LoadMap: 127.0.0.1:17777//Game/0Server_Map/UEDPIE_1_Server_Map?game=/Game/0Server_Map/Server_GameMode.Server_GameMode_C
+[2021.04.28-05.05.52:516][ 12]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2021.04.28-05.05.52:516][ 12]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.05.52:578][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.04.28-05.05.52:630][ 12]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.05.52:630][ 12]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.05.52:640][ 12]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_3_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.05.52
+[2021.04.28-05.05.52:642][ 12]LogWorld: Bringing up level for play took: 0.011185
+[2021.04.28-05.05.52:642][ 12]LogLoad: Took 0.126291 seconds to LoadMap(/Game/0Server_Map/UEDPIE_1_Server_Map)
+[2021.04.28-05.05.52:661][ 13]LogNet: Client netspeed is 10000
+[2021.04.28-05.05.52:661][ 13]LogNet: Join request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E?SplitscreenCount=1
+[2021.04.28-05.05.52:661][ 13]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.05.52:662][ 13]LogScript: Warning: Script Msg: Divide by zero detected: 179.999756 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.05.52:673][ 13]LogNet: Join succeeded: DESKTOP-S53VFKC-FDD1
+[2021.04.28-05.05.52:673][ 13]LogNet: Client netspeed is 10000
+[2021.04.28-05.05.52:673][ 13]LogNet: Join request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C?SplitscreenCount=1
+[2021.04.28-05.05.52:673][ 13]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.05.52:674][ 13]LogScript: Warning: Script Msg: Divide by zero detected: 179.999756 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.05.52:685][ 13]LogNet: Join succeeded: DESKTOP-S53VFKC-C234
+[2021.04.28-05.05.52:699][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.05.52:711][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.05.52:723][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.05.52:818][ 16]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.05.52:818][ 16]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.05.52:820][ 16]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.05.52:820][ 16]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.05.52:853][ 17]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.05.55:061][221]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.05.55:061][221]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.05.55:062][221]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.05.55:182][233]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.05.55:605][273]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.05.55:605][273]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.05.57:161][417]LogBlueprintUserMessages: [KallariPlayerCharacter_C_0] Server: Hello
+[2021.04.28-05.05.57:163][417]LogBlueprintUserMessages: [KallariPlayerCharacter_C_0] Client 1: Hello
+[2021.04.28-05.05.57:164][417]LogBlueprintUserMessages: [KallariPlayerCharacter_C_1] Client 2: Hello
+[2021.04.28-05.06.02:514][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.04.28-05.06.02:602][824]LogSlate: Window 'My3 게임 미리보기 Client 1 (64-비트/PCD3D_SM5)' being destroyed
+[2021.04.28-05.06.02:606][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.06.02:606][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.06.02:606][824]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_3_Server_Map
+[2021.04.28-05.06.02:612][824]LogSlate: Window 'My3 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2021.04.28-05.06.02:617][824]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.06.02:629][824]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2021.04.28-05.06.02:629][824]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2021.04.28-05.06.02:629][824]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C, Channels: 23, Time: 2021.04.28-05.06.02
+[2021.04.28-05.06.02:629][824]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C
+[2021.04.28-05.06.02:629][824]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2021.04.28-05.06.02:629][824]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_2_Server_Map
+[2021.04.28-05.06.02:630][824]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.06.02:637][824]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2021.04.28-05.06.02:637][824]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2021.04.28-05.06.02:638][824]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E, Channels: 23, Time: 2021.04.28-05.06.02
+[2021.04.28-05.06.02:638][824]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E
+[2021.04.28-05.06.02:638][824]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2021.04.28-05.06.02:638][824]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_1_Server_Map
+[2021.04.28-05.06.02:639][824]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.06.02:644][824]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.04.28-05.06.02:644][824]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.04.28-05.06.02:644][824]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49298, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C
+[2021.04.28-05.06.02:644][824]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49298, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C, Channels: 23, Time: 2021.04.28-05.06.02
+[2021.04.28-05.06.02:644][824]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49298, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-C2346AF54BEFA821DC026A940654F77C
+[2021.04.28-05.06.02:644][824]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49297, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E
+[2021.04.28-05.06.02:644][824]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49297, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E, Channels: 23, Time: 2021.04.28-05.06.02
+[2021.04.28-05.06.02:644][824]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49297, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-FDD1440A4D87D9AA6A70938EDAAE967E
+[2021.04.28-05.06.02:644][824]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.04.28-05.06.02:645][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-05.06.02:645][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.06.02:713][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.04.28-05.06.02:750][825]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.04.28-05.06.02:750][825]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.04.28-05.06.02:750][825]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: decal_grunge_muck_01 (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: glass_window_broken_g (AutoDXT, 1024X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: signs_decals_stickers_c (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: grunge_dirt_pebble_pile_a_n (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: bricks_red_g (AutoDXT, 2048X2048)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: cloth_awning_torn_n (BC5, 1024X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: brick_wall_tiling_g (AutoDXT, 2048X2048)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: tiles_wall_broken_c (AutoDXT, 2048X2048)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: concrete_trim_n (BC5, 2048X2048)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_104 (AutoDXT, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_140 (AutoDXT, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_54 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_50 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_38 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_61 (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_58 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_60 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_62 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_79 (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_77 (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_83 (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_90 (AutoDXT, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_92 (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_95 (AutoDXT, 512X512)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_27 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_20 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_32 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_106 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_112 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_109 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_107 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_116 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_120 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_131 (DXT1, 128X128)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_133 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_41 (DXT1, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_35 (DXT1, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_47 (DXT1, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_60 (DXT1, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_88 (DXT1, 256X256)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_72 (DXT1, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_19 (DXT1, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_106 (AutoDXT, 256X128)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.04.28-05.07.15:146][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_111 (AutoDXT, 512X256)
+[2021.04.28-05.07.15:146][464]LogMaterial: Display: Missing cached shader map for material dark_muck02, compiling. 
+[2021.04.28-05.07.19:263][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_120 (AutoDXT, 256X128)
+[2021.04.28-05.07.19:263][464]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2021.04.28-05.07.19:263][464]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.04.28-05.07.19:263][464]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.04.28-05.07.19:263][464]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.04.28-05.07.19:263][464]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.04.28-05.07.19:263][464]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.04.28-05.07.19:263][464]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.04.28-05.07.19:264][464]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_181 (AutoDXT, 8X4)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_31 (AutoDXT, 2048X1024)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_41 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_49 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_44 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_79 (AutoDXT, 512X256)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_71 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_72 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_67 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_84 (AutoDXT, 512X256)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_92 (AutoDXT, 512X256)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_94 (AutoDXT, 512X256)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_97 (AutoDXT, 256X128)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_16 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_25 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_33 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_24 (AutoDXT, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_139 (BGRA8, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_141 (BGRA8, 2048X1024)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_175 (BGRA8, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_159 (BGRA8, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_174 (BGRA8, 1024X512)
+[2021.04.28-05.07.19:264][464]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_195 (BGRA8, 256X128)
+[2021.04.28-05.07.19:264][464]LogStaticMesh: store_front_windows_broken_4x1_a 스태틱 메시 빌드중...
+[2021.04.28-05.07.20:293][464]LogStaticMesh: Built static mesh [1.03s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a
+[2021.04.28-05.07.20:664][464]LogStaticMesh: store_front_windows_broken_4x1_b 스태틱 메시 빌드중...
+[2021.04.28-05.07.20:818][464]LogStaticMesh: Built static mesh [0.15s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_b.store_front_windows_broken_4x1_b
+[2021.04.28-05.07.21:699][464]LogStaticMesh: store_front_windows_intact_4x1_c 스태틱 메시 빌드중...
+[2021.04.28-05.07.21:716][464]LogStaticMesh: Built static mesh [0.02s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c
+[2021.04.28-05.07.22:666][464]LogMaterial: Display: Missing cached shader map for material interior_lights, compiling. 
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 54
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.04.28-05.07.26:771][464]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.04.28-05.07.26:771][464]LogStaticMesh: windows_building_upper_4x1_a 스태틱 메시 빌드중...
+[2021.04.28-05.07.26:779][464]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_a.windows_building_upper_4x1_a
+[2021.04.28-05.07.31:358][464]LogAIModule: Creating AISystem for world Demo_Scene
+[2021.04.28-05.07.31:360][464]LogActorComponent: RegisterComponentWithWorld: (/Game/ModularBuildingSet/Demo_Scene.Demo_Scene:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.04.28-05.07.31:732][464]LogAssetEditorManager: Opening Asset editor for World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene
+[2021.04.28-05.07.32:120][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.04.28-05.07.32:120][464]Cmd: MAP LOAD FILE="../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/ModularBuildingSet/Demo_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-05.07.32:121][464]LightingResults: New page: 라이팅 빌드
+[2021.04.28-05.07.32:122][464]LoadErrors: New page: 맵 로드중: Demo_Scene.umap
+[2021.04.28-05.07.32:125][464]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.07.32:127][464]MapCheck: New page: 맵 체크
+[2021.04.28-05.07.32:127][464]LightingResults: New page: 라이팅 빌드
+[2021.04.28-05.07.32:180][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.04.28-05.07.33:339][464]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.04.28-05.07.33:740][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.04.28-05.07.33:757][464]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-05.07.33:766][464]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 8.359ms.
+[2021.04.28-05.07.33:766][464]LogFileHelpers: Loading map 'Demo_Scene' took 1.646
+[2021.04.28-05.08.00:428][720]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.08.00:549][720]LogAssetEditorManager: Opening Asset editor for World /Game/0Server_Map/Server_Map.Server_Map
+[2021.04.28-05.08.00:630][720]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2021.04.28-05.08.00:631][720]Cmd: MAP LOAD FILE="../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/0Server_Map/Server_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-05.08.00:631][720]LightingResults: New page: 라이팅 빌드
+[2021.04.28-05.08.00:631][720]LoadErrors: New page: 맵 로드중: Server_Map.umap
+[2021.04.28-05.08.00:667][720]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.08.00:678][720]MapCheck: New page: 맵 체크
+[2021.04.28-05.08.00:678][720]LightingResults: New page: 라이팅 빌드
+[2021.04.28-05.08.00:803][720]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.04.28-05.08.01:250][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.28-05.08.01:299][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.04.28-05.08.01:311][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-05.08.01:311][720]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.128ms.
+[2021.04.28-05.08.01:311][720]LogFileHelpers: Loading map 'Server_Map' took 0.681
+[2021.04.28-05.08.47:488][941]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.28-05.08.48:528][941]LogAIModule: Creating AISystem for world Demo_Scene
+[2021.04.28-05.08.48:530][941]LogActorComponent: RegisterComponentWithWorld: (/Game/ModularBuildingSet/Demo_Scene.Demo_Scene:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.04.28-05.08.49:493][941]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2021.04.28-05.08.49:493][941]LogStaticMesh: plane_wall_right_2x2 스태틱 메시 빌드중...
+[2021.04.28-05.08.49:496][941]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_right_2x2.plane_wall_right_2x2
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_17 (BGRA8, 1024X512)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_19 (BGRA8, 1024X512)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (BGRA8, 2048X1024)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_26 (BGRA8, 256X128)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_25 (BGRA8, 512X256)
+[2021.04.28-05.08.52:328][941]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_22 (BGRA8, 1024X512)
+[2021.04.28-05.08.53:421][941]LogAIModule: Creating AISystem for world Overview
+[2021.04.28-05.08.53:422][941]LogActorComponent: RegisterComponentWithWorld: (/Game/ModularBuildingSet/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.04.28-05.08.53:734][941]LogMaterial: Display: Missing cached shader map for material dripping_a01, compiling. 
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.04.28-05.08.54:083][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.28-05.08.54:083][941]LogMaterial: Display: Missing cached shader map for material decal_rust_dripping_a02, compiling. 
+[2021.04.28-05.08.55:113][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2021.04.28-05.08.55:113][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.04.28-05.08.55:113][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.04.28-05.08.55:113][941]LogTexture: Display: 텍스처 빌드: glass_window_broken_c (AutoDXT, 1024X512)
+[2021.04.28-05.08.55:113][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.04.28-05.08.55:113][941]LogObjectTools: Deleting 2 worlds: /Game/ModularBuildingSet/Demo_Scene.Demo_Scene, /Game/ModularBuildingSet/Overview.Overview
+[2021.04.28-05.08.55:113][941]LogObjectTools: Currently 24 active worlds: /Game/0Server_Map/Server_Map.Server_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22
+[2021.04.28-05.08.55:415][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.04.28-05.08.55:719][941]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.04.28-05.08.56:843][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.04.28-05.08.57:570][941]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.04.28-05.08.57:570][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.28-05.08.57:570][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.04.28-05.12.43:624][941]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-05.12.50:177][707]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.04.28-05.12.50:220][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.12.50:220][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-05.12.50:220][707]PIE: New page: PIE 세션: Server_Map (2021. 4. 28. 오후 11:12:50)
+[2021.04.28-05.12.50:220][707]LogPlayLevel: Creating play world package: /Game/0Server_Map/UEDPIE_1_Server_Map
+[2021.04.28-05.12.50:272][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051587s)
+[2021.04.28-05.12.50:273][707]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.12.50:273][707]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2021.04.28-05.12.50:273][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0Server_Map/Server_Map.Server_Map to /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map (0.052534s)
+[2021.04.28-05.12.50:313][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.04.28-05.12.50:314][707]LogLoad: Game class is 'Server_GameMode_C'
+[2021.04.28-05.12.50:324][707]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.12.50
+[2021.04.28-05.12.50:328][707]LogWorld: Bringing up level for play took: 0.013682
+[2021.04.28-05.12.50:329][707]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.12.50:329][707]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2021.04.28-05.12.50:329][707]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.12.50:329][707]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.04.28-05.12.50:329][707]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.04.28-05.12.50:329][707]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.04.28-05.12.50:329][707]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.12.50:329][707]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2021.04.28-05.12.50:331][707]PIE: /Game/0Server_Map/UEDPIE_1_Server_Map 에 대한 에디터에서 플레이 시작 시간: -0.746
+[2021.04.28-05.12.50:334][707]LogInit: XAudio2 using '원격 오디오' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.04.28-05.12.50:355][707]LogInit: FAudioDevice initialized.
+[2021.04.28-05.12.50:364][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.12.50:364][707]LogNet: Browse: 127.0.0.1:17777//Game/0MainMenu_Map/MainMenuMap
+[2021.04.28-05.12.50:364][707]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.12.50:364][707]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2021.04.28-05.12.50:364][707]LogTemp: Display: ParseSettings for PendingNetDriver
+[2021.04.28-05.12.50:365][707]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.04.28-05.12.50:365][707]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.12.50:365][707]LogNet: Game client on port 17777, rate 10000
+[2021.04.28-05.12.50:367][707]PIE: /Game/0MainMenu_Map/MainMenuMap 에 대한 에디터에서 플레이 시작 시간: -0.709
+[2021.04.28-05.12.50:373][707]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.04.28-05.12.50:379][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.12.50:379][707]LogNet: Browse: 127.0.0.1:17777//Game/0MainMenu_Map/MainMenuMap
+[2021.04.28-05.12.50:379][707]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.12.50:379][707]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2021.04.28-05.12.50:379][707]LogTemp: Display: ParseSettings for PendingNetDriver
+[2021.04.28-05.12.50:379][707]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.04.28-05.12.50:380][707]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.12.50:380][707]LogNet: Game client on port 17777, rate 10000
+[2021.04.28-05.12.50:382][707]PIE: /Game/0MainMenu_Map/MainMenuMap 에 대한 에디터에서 플레이 시작 시간: -0.694
+[2021.04.28-05.12.50:386][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.12.50:386][707]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52747
+[2021.04.28-05.12.50:386][707]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 021039181207226073184030114222070066039110063187141183211008
+[2021.04.28-05.12.50:386][707]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52748
+[2021.04.28-05.12.50:386][707]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 168189205128134249038179234251026037051214043013057245007019
+[2021.04.28-05.12.50:387][707]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.28-05.12.50:389][707]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 021039181207226073184030114222070066039110063187141183211008
+[2021.04.28-05.12.50:389][707]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 168189205128134249038179234251026037051214043013057245007019
+[2021.04.28-05.12.50:448][708]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52747
+[2021.04.28-05.12.50:448][708]LogHandshake: SendChallengeAck. InCookie: 021039181207226073184030114222070066039110063187141183211008
+[2021.04.28-05.12.50:448][708]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52747
+[2021.04.28-05.12.50:449][708]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.12.50:449][708]LogNet: NotifyAcceptedConnection: Name: Server_Map, TimeStamp: 04/28/21 14:12:50, [UNetConnection] RemoteAddr: 127.0.0.1:52747, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.12.50:449][708]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52747, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.12.50:449][708]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52748
+[2021.04.28-05.12.50:449][708]LogHandshake: SendChallengeAck. InCookie: 168189205128134249038179234251026037051214043013057245007019
+[2021.04.28-05.12.50:449][708]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52748
+[2021.04.28-05.12.50:449][708]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.04.28-05.12.50:449][708]LogNet: NotifyAcceptedConnection: Name: Server_Map, TimeStamp: 04/28/21 14:12:50, [UNetConnection] RemoteAddr: 127.0.0.1:52748, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.12.50:449][708]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52748, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.12.50:450][708]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.12.50:450][708]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.04.28-05.12.50:458][709]LogNet: NotifyAcceptingChannel Control 0 server World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map: Accepted
+[2021.04.28-05.12.50:458][709]LogNet: Remote platform little endian=1
+[2021.04.28-05.12.50:458][709]LogNet: This platform little endian=1
+[2021.04.28-05.12.50:458][709]LogNet: NotifyAcceptingChannel Control 0 server World /Game/0Server_Map/UEDPIE_1_Server_Map.Server_Map: Accepted
+[2021.04.28-05.12.50:458][709]LogNet: Remote platform little endian=1
+[2021.04.28-05.12.50:458][709]LogNet: This platform little endian=1
+[2021.04.28-05.12.50:459][709]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.04.28-05.12.50:460][709]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.04.28-05.12.50:467][710]LogNet: Login request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8 userId: NULL:DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8 platform: NULL
+[2021.04.28-05.12.50:467][710]LogNet: Login request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED userId: NULL:DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED platform: NULL
+[2021.04.28-05.12.50:468][710]LogNet: Welcomed by server (Level: /Game/0Server_Map/UEDPIE_1_Server_Map, Game: /Game/0Server_Map/Server_GameMode.Server_GameMode_C)
+[2021.04.28-05.12.50:468][710]LogLoad: LoadMap: 127.0.0.1:17777//Game/0Server_Map/UEDPIE_1_Server_Map?game=/Game/0Server_Map/Server_GameMode.Server_GameMode_C
+[2021.04.28-05.12.50:468][710]LogWorld: BeginTearingDown for /Temp/Untitled_5
+[2021.04.28-05.12.50:468][710]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.12.50:510][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.04.28-05.12.50:564][710]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.12.50:564][710]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.12.50:573][710]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_2_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.12.50
+[2021.04.28-05.12.50:575][710]LogWorld: Bringing up level for play took: 0.010568
+[2021.04.28-05.12.50:576][710]LogLoad: Took 0.107958 seconds to LoadMap(/Game/0Server_Map/UEDPIE_1_Server_Map)
+[2021.04.28-05.12.50:576][710]LogNet: Welcomed by server (Level: /Game/0Server_Map/UEDPIE_1_Server_Map, Game: /Game/0Server_Map/Server_GameMode.Server_GameMode_C)
+[2021.04.28-05.12.50:576][710]LogLoad: LoadMap: 127.0.0.1:17777//Game/0Server_Map/UEDPIE_1_Server_Map?game=/Game/0Server_Map/Server_GameMode.Server_GameMode_C
+[2021.04.28-05.12.50:576][710]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2021.04.28-05.12.50:576][710]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.12.50:640][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.04.28-05.12.50:693][710]LogAIModule: Creating AISystem for world Server_Map
+[2021.04.28-05.12.50:693][710]LogTemp: Display: ParseSettings for GameNetDriver
+[2021.04.28-05.12.50:702][710]LogWorld: Bringing World /Game/0Server_Map/UEDPIE_3_Server_Map.Server_Map up for play (max tick rate 0) at 2021.04.28-14.12.50
+[2021.04.28-05.12.50:704][710]LogWorld: Bringing up level for play took: 0.010623
+[2021.04.28-05.12.50:704][710]LogLoad: Took 0.128434 seconds to LoadMap(/Game/0Server_Map/UEDPIE_1_Server_Map)
+[2021.04.28-05.12.50:722][711]LogNet: Client netspeed is 10000
+[2021.04.28-05.12.50:722][711]LogNet: Join request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8?SplitscreenCount=1
+[2021.04.28-05.12.50:722][711]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.12.50:723][711]LogScript: Warning: Script Msg: Divide by zero detected: 179.999756 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.12.50:735][711]LogNet: Join succeeded: DESKTOP-S53VFKC-EC00
+[2021.04.28-05.12.50:735][711]LogNet: Client netspeed is 10000
+[2021.04.28-05.12.50:735][711]LogNet: Join request: /Game/0MainMenu_Map/MainMenuMap?Name=DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED?SplitscreenCount=1
+[2021.04.28-05.12.50:735][711]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.12.50:736][711]LogScript: Warning: Script Msg: Divide by zero detected: 179.999756 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.12.50:747][711]LogNet: Join succeeded: DESKTOP-S53VFKC-5A61
+[2021.04.28-05.12.50:763][712]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.12.50:774][712]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.12.50:787][712]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.12.50:817][713]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.12.50:879][714]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.12.50:881][714]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.12.50:881][714]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.04.28-05.12.50:913][715]LogScript: Warning: Script Msg: Divide by zero detected: 179.999969 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2021.04.28-05.12.53:118][921]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.12.53:118][921]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.12.53:119][921]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.12.53:240][933]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.12.53:610][970]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.12.53:610][970]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.04.28-05.13.04:673][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.04.28-05.13.04:812][ 62]LogSlate: Window 'My3 게임 미리보기 Client 1 (64-비트/PCD3D_SM5)' being destroyed
+[2021.04.28-05.13.04:816][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.13.04:816][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.13.04:816][ 62]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_3_Server_Map
+[2021.04.28-05.13.04:822][ 62]LogSlate: Window 'My3 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2021.04.28-05.13.04:828][ 62]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.13.04:834][ 62]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2021.04.28-05.13.04:834][ 62]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2021.04.28-05.13.04:834][ 62]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED, Channels: 23, Time: 2021.04.28-05.13.04
+[2021.04.28-05.13.04:834][ 62]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED
+[2021.04.28-05.13.04:834][ 62]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2021.04.28-05.13.04:835][ 62]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_2_Server_Map
+[2021.04.28-05.13.04:835][ 62]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.13.04:843][ 62]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2021.04.28-05.13.04:843][ 62]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2021.04.28-05.13.04:843][ 62]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8, Channels: 23, Time: 2021.04.28-05.13.04
+[2021.04.28-05.13.04:843][ 62]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8
+[2021.04.28-05.13.04:843][ 62]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2021.04.28-05.13.04:843][ 62]LogWorld: BeginTearingDown for /Game/0Server_Map/UEDPIE_1_Server_Map
+[2021.04.28-05.13.04:845][ 62]LogWorld: UWorld::CleanupWorld for Server_Map, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.13.04:850][ 62]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2021.04.28-05.13.04:850][ 62]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2021.04.28-05.13.04:850][ 62]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52748, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED
+[2021.04.28-05.13.04:850][ 62]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52748, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED, Channels: 23, Time: 2021.04.28-05.13.04
+[2021.04.28-05.13.04:850][ 62]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52748, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-S53VFKC-5A618E7B45783ABAF3A7299905F825ED
+[2021.04.28-05.13.04:850][ 62]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52747, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8
+[2021.04.28-05.13.04:850][ 62]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52747, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8, Channels: 23, Time: 2021.04.28-05.13.04
+[2021.04.28-05.13.04:850][ 62]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52747, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:DESKTOP-S53VFKC-EC00994640A59C61A557F18A72604DD8
+[2021.04.28-05.13.04:850][ 62]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2021.04.28-05.13.04:851][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-05.13.04:851][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel' has LevelScriptBlueprint '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map' with GeneratedClass '/Game/0Server_Map/Server_Map.Server_Map_C' with ClassGeneratedBy '/Game/0Server_Map/Server_Map.Server_Map:PersistentLevel.Server_Map'
+[2021.04.28-05.13.04:921][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.04.28-05.13.04:957][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.04.28-05.13.04:957][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.04.28-05.13.04:957][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.28-05.14.17:427][490]LogTexture: Display: 텍스처 빌드: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2021.04.28-05.14.17:427][490]LogTexture: Display: 텍스처 빌드: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2021.04.28-05.14.17:427][490]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2021.04.28-05.14.17:442][490]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.04.28-05.14.17:586][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.04.28-05.14.28:463][490]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-05.14.54:648][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.04.28-05.14.55:699][601]LogSavePackage: Moving '../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Server_Map55E071C043F434741D7BC3AD3F184DC5.tmp' to '../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/0Server_Map/Server_Map.umap'
+[2021.04.28-05.14.55:973][601]LogSavePackage: Moving '../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Saved/Server_Map_BuiltData0FC1B05A48BB6BFE5219FA9B333B173E.tmp' to '../../../../../자료모음/2020_2nd/Game_Pro/GamePrograming_Project/MultiMazeRunner_Project/Content/0Server_Map/Server_Map_BuiltData.uasset'
+[2021.04.28-05.15.01:105][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.04.28-05.15.01:235][201]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:240][201]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:267][201]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:271][201]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:297][201]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:330][201]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.28-05.15.01:330][201]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:366][201]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.28-05.15.01:366][201]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:513][201]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:573][201]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:586][201]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:610][201]LogSlate: Window 'BP_AIController' being destroyed
+[2021.04.28-05.15.01:627][201]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.28-05.15.01:627][201]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.01:657][201]LogSlate: Window 'My3 - 언리얼 에디터' being destroyed
+[2021.04.28-05.15.01:659][201]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2021.04.28-05.15.01:800][202]Cmd: QUIT_EDITOR
+[2021.04.28-05.15.02:107][202]LogExit: Preparing to exit.
+[2021.04.28-05.15.02:545][202]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:548][202]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:550][202]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:553][202]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:555][202]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:557][202]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:559][202]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:561][202]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:563][202]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:566][202]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:568][202]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:570][202]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:573][202]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.15.02:682][202]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.28-05.15.02:704][202]LogExit: Editor shut down
+[2021.04.28-05.15.02:707][202]LogExit: Transaction tracking system shut down
+[2021.04.28-05.15.03:478][202]LogExit: Object subsystem successfully closed.
+[2021.04.28-05.15.03:547][202]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module MeshBuilder (678)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module Voice (676)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module PinnedCommandList (672)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module SkeletonEditor (670)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module AnimationEditor (668)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module SequencerWidgets (666)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module BlueprintGraph (664)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (662)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module SceneOutliner (660)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module AddContentDialog (658)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module WidgetCarousel (657)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module EditorWidgets (654)
+[2021.04.28-05.15.03:891][202]LogModuleManager: Shutting down and abandoning module CollectionManager (652)
+[2021.04.28-05.15.03:902][202]LogModuleManager: Shutting down and abandoning module StatsViewer (650)
+[2021.04.28-05.15.03:902][202]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (648)
+[2021.04.28-05.15.03:902][202]LogModuleManager: Shutting down and abandoning module FoliageEdit (646)
+[2021.04.28-05.15.03:902][202]LogModuleManager: Shutting down and abandoning module LandscapeEditor (644)
+[2021.04.28-05.15.03:918][202]LogModuleManager: Shutting down and abandoning module MeshPaintMode (642)
+[2021.04.28-05.15.03:918][202]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (640)
+[2021.04.28-05.15.03:918][202]LogModuleManager: Shutting down and abandoning module ActorPickerMode (638)
+[2021.04.28-05.15.03:918][202]LogModuleManager: Shutting down and abandoning module GeometryMode (636)
+[2021.04.28-05.15.03:918][202]LogModuleManager: Shutting down and abandoning module TextureAlignMode (634)
+[2021.04.28-05.15.03:918][202]LogModuleManager: Shutting down and abandoning module BspMode (632)
+[2021.04.28-05.15.03:918][202]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (630)
+[2021.04.28-05.15.03:927][202]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (628)
+[2021.04.28-05.15.03:927][202]LogModuleManager: Shutting down and abandoning module AutomationWorker (626)
+[2021.04.28-05.15.03:927][202]LogModuleManager: Shutting down and abandoning module OculusMR (624)
+[2021.04.28-05.15.03:927][202]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (622)
+[2021.04.28-05.15.03:927][202]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (620)
+[2021.04.28-05.15.03:950][202]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (618)
+[2021.04.28-05.15.03:968][202]LogModuleManager: Shutting down and abandoning module PlacementMode (617)
+[2021.04.28-05.15.03:968][202]LogModuleManager: Shutting down and abandoning module MaterialEditor (616)
+[2021.04.28-05.15.03:979][202]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (612)
+[2021.04.28-05.15.03:986][202]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (610)
+[2021.04.28-05.15.03:986][202]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (608)
+[2021.04.28-05.15.03:986][202]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (606)
+[2021.04.28-05.15.03:986][202]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (604)
+[2021.04.28-05.15.03:986][202]LogModuleManager: Shutting down and abandoning module WebMMedia (602)
+[2021.04.28-05.15.03:986][202]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (600)
+[2021.04.28-05.15.03:996][202]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (598)
+[2021.04.28-05.15.03:996][202]LogModuleManager: Shutting down and abandoning module SequenceRecorder (597)
+[2021.04.28-05.15.03:996][202]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (594)
+[2021.04.28-05.15.03:996][202]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (592)
+[2021.04.28-05.15.03:996][202]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (590)
+[2021.04.28-05.15.03:996][202]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (588)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (586)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (584)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (582)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (580)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (578)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (576)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (574)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module CharacterAI (572)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module SmartSnapping (570)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module SessionServices (568)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module MeshPaint (566)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module ViewportSnapping (564)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module ViewportInteraction (562)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module ClothPainter (560)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (559)
+[2021.04.28-05.15.03:997][202]LogModuleManager: Shutting down and abandoning module LogVisualizer (556)
+[2021.04.28-05.15.03:998][202]LogModuleManager: Shutting down and abandoning module IntroTutorials (554)
+[2021.04.28-05.15.03:998][202]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (553)
+[2021.04.28-05.15.03:998][202]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (550)
+[2021.04.28-05.15.03:998][202]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (548)
+[2021.04.28-05.15.03:998][202]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (546)
+[2021.04.28-05.15.03:998][202]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (544)
+[2021.04.28-05.15.03:998][202]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (543)
+[2021.04.28-05.15.04:603][202]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (540)
+[2021.04.28-05.15.04:603][202]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (538)
+[2021.04.28-05.15.04:603][202]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (536)
+[2021.04.28-05.15.04:603][202]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (534)
+[2021.04.28-05.15.04:603][202]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (532)
+[2021.04.28-05.15.04:603][202]LogModuleManager: Shutting down and abandoning module InputBindingEditor (530)
+[2021.04.28-05.15.04:603][202]LogModuleManager: Shutting down and abandoning module MergeActors (528)
+[2021.04.28-05.15.04:609][202]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (526)
+[2021.04.28-05.15.04:609][202]LogModuleManager: Shutting down and abandoning module LocalizationService (525)
+[2021.04.28-05.15.04:622][202]LogModuleManager: Shutting down and abandoning module HardwareTargeting (522)
+[2021.04.28-05.15.04:622][202]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (520)
+[2021.04.28-05.15.04:622][202]LogModuleManager: Shutting down and abandoning module UndoHistory (518)
+[2021.04.28-05.15.04:622][202]LogModuleManager: Shutting down and abandoning module XmlParser (516)
+[2021.04.28-05.15.04:635][202]LogModuleManager: Shutting down and abandoning module Blutility (514)
+[2021.04.28-05.15.04:635][202]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (512)
+[2021.04.28-05.15.04:635][202]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (511)
+[2021.04.28-05.15.04:635][202]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (508)
+[2021.04.28-05.15.04:635][202]LogModuleManager: Shutting down and abandoning module SettingsEditor (506)
+[2021.04.28-05.15.04:635][202]LogModuleManager: Shutting down and abandoning module ProjectLauncher (504)
+[2021.04.28-05.15.04:668][202]LogModuleManager: Shutting down and abandoning module SessionFrontend (502)
+[2021.04.28-05.15.04:668][202]LogModuleManager: Shutting down and abandoning module ProfilerClient (500)
+[2021.04.28-05.15.04:669][202]LogModuleManager: Shutting down and abandoning module DeviceManager (498)
+[2021.04.28-05.15.04:669][202]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (497)
+[2021.04.28-05.15.04:716][202]LogModuleManager: Shutting down and abandoning module AutomationController (494)
+[2021.04.28-05.15.04:716][202]LogModuleManager: Shutting down and abandoning module AutomationWindow (492)
+[2021.04.28-05.15.04:742][202]LogModuleManager: Shutting down and abandoning module Layers (490)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (488)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module DetailCustomizations (486)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module PackagesDialog (484)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (482)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module Persona (480)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (479)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module AnimGraph (477)
+[2021.04.28-05.15.04:752][202]LogModuleManager: Shutting down and abandoning module Kismet (474)
+[2021.04.28-05.15.04:756][202]LogModuleManager: Shutting down and abandoning module KismetWidgets (473)
+[2021.04.28-05.15.04:757][202]LogModuleManager: Shutting down and abandoning module GraphEditor (470)
+[2021.04.28-05.15.04:757][202]LogModuleManager: Shutting down and abandoning module StructViewer (468)
+[2021.04.28-05.15.04:757][202]LogModuleManager: Shutting down and abandoning module ClassViewer (466)
+[2021.04.28-05.15.04:757][202]LogModuleManager: Shutting down and abandoning module Toolbox (464)
+[2021.04.28-05.15.04:757][202]LogModuleManager: Shutting down and abandoning module DesktopPlatform (463)
+[2021.04.28-05.15.04:757][202]LogModuleManager: Shutting down and abandoning module ModuleUI (460)
+[2021.04.28-05.15.04:769][202]LogModuleManager: Shutting down and abandoning module MovieSceneTools (458)
+[2021.04.28-05.15.04:769][202]LogModuleManager: Shutting down and abandoning module OutputLog (456)
+[2021.04.28-05.15.04:778][202]LogModuleManager: Shutting down and abandoning module GammaUI (454)
+[2021.04.28-05.15.04:788][202]LogModuleManager: Shutting down and abandoning module Documentation (452)
+[2021.04.28-05.15.04:788][202]LogModuleManager: Shutting down and abandoning module LiveCoding (450)
+[2021.04.28-05.15.04:788][202]LogModuleManager: Shutting down and abandoning module LevelSequence (448)
+[2021.04.28-05.15.04:788][202]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2021.04.28-05.15.04:788][202]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2021.04.28-05.15.04:788][202]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2021.04.28-05.15.04:789][202]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (422)
+[2021.04.28-05.15.04:791][202]LogModuleManager: Shutting down and abandoning module ProfilerService (420)
+[2021.04.28-05.15.04:842][202]LogModuleManager: Shutting down and abandoning module TaskGraph (418)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module ScreenshotTools (416)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module SteamVRController (414)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (412)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (410)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module OculusEditor (408)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module OculusInput (406)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (404)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module EditableMesh (402)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (400)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module CableComponent (398)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module AudioCapture (396)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (394)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (392)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module AppleImageUtils (390)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module AndroidPermission (388)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (386)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (384)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module MediaCompositing (382)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module ImgMedia (380)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (378)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (376)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (374)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module HTML5Networking (372)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (370)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (368)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module BackChannel (366)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (364)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module AutomationUtils (362)
+[2021.04.28-05.15.04:859][202]LogModuleManager: Shutting down and abandoning module AlembicImporter (360)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module AlembicLibrary (359)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module GeometryCache (358)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (357)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module VariantManagerContent (352)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (350)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (348)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module PluginBrowser (346)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (344)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (342)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module CurveEditorTools (340)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module CurveEditor (339)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (336)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module CryptoKeys (334)
+[2021.04.28-05.15.04:860][202]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (332)
+[2021.04.28-05.15.04:875][202]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (330)
+[2021.04.28-05.15.04:875][202]LogModuleManager: Shutting down and abandoning module UObjectPlugin (328)
+[2021.04.28-05.15.04:875][202]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (326)
+[2021.04.28-05.15.04:875][202]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (324)
+[2021.04.28-05.15.04:887][202]LogModuleManager: Shutting down and abandoning module GitSourceControl (322)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module SourceControl (321)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (318)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (316)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module My3 (302)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module SignificanceManager (300)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module ActorSequence (290)
+[2021.04.28-05.15.04:900][202]LogModuleManager: Shutting down and abandoning module UdpMessaging (288)
+[2021.04.28-05.15.05:001][202]LogModuleManager: Shutting down and abandoning module TcpMessaging (286)
+[2021.04.28-05.15.05:115][202]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (284)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (282)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (280)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (278)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module MagicLeapController (276)
+[2021.04.28-05.15.05:122][202]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module MagicLeapAR (274)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module AugmentedReality (273)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2021.04.28-05.15.05:122][202]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2021.04.28-05.15.05:136][202]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2021.04.28-05.15.05:152][202]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2021.04.28-05.15.05:152][202]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2021.04.28-05.15.05:152][202]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2021.04.28-05.15.05:152][202]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2021.04.28-05.15.05:152][202]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2021.04.28-05.15.05:153][202]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2021.04.28-05.15.05:153][202]LogModuleManager: Shutting down and abandoning module AnimationSharing (246)
+[2021.04.28-05.15.05:153][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2021.04.28-05.15.05:153][202]LogModuleManager: Shutting down and abandoning module Paper2D (242)
+[2021.04.28-05.15.05:153][202]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (240)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (238)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (236)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module PacketHandler (234)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (232)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (230)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module MediaAssets (228)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module Overlay (226)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module OverlayEditor (225)
+[2021.04.28-05.15.05:159][202]LogModuleManager: Shutting down and abandoning module VREditor (222)
+[2021.04.28-05.15.05:169][202]LogModuleManager: Shutting down and abandoning module StringTableEditor (220)
+[2021.04.28-05.15.05:184][202]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (218)
+[2021.04.28-05.15.05:184][202]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (216)
+[2021.04.28-05.15.05:198][202]LogModuleManager: Shutting down and abandoning module FunctionalTesting (214)
+[2021.04.28-05.15.05:199][202]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (212)
+[2021.04.28-05.15.05:199][202]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (211)
+[2021.04.28-05.15.05:199][202]LogModuleManager: Shutting down and abandoning module UMG (208)
+[2021.04.28-05.15.05:199][202]LogModuleManager: Shutting down and abandoning module UMGEditor (207)
+[2021.04.28-05.15.05:199][202]LogModuleManager: Shutting down and abandoning module Sequencer (206)
+[2021.04.28-05.15.05:199][202]LogModuleManager: Shutting down and abandoning module MessageLog (203)
+[2021.04.28-05.15.05:199][202]LogModuleManager: Shutting down and abandoning module SlateReflector (198)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module Slate (196)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (194)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module UnrealEd (190)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2021.04.28-05.15.05:221][202]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2021.04.28-05.15.05:222][202]LogModuleManager: Shutting down and abandoning module Core (178)
+[2021.04.28-05.15.05:222][202]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2021.04.28-05.15.05:222][202]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2021.04.28-05.15.05:222][202]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2021.04.28-05.15.05:222][202]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2021.04.28-05.15.05:222][202]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2021.04.28-05.15.05:238][202]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2021.04.28-05.15.05:254][202]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2021.04.28-05.15.05:267][202]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2021.04.28-05.15.05:280][202]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (158)
+[2021.04.28-05.15.05:280][202]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2021.04.28-05.15.05:297][202]LogDerivedDataCache: Shutdown
+[2021.04.28-05.15.05:297][202]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2021.04.28-05.15.05:297][202]LogXGEController: Cleaning working directory: C:/Users/hhj32/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.28-05.15.05:297][202]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2021.04.28-05.15.05:297][202]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2021.04.28-05.15.05:297][202]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2021.04.28-05.15.05:298][202]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2021.04.28-05.15.05:319][202]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2021.04.28-05.15.05:334][202]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (121)
+[2021.04.28-05.15.05:335][202]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2021.04.28-05.15.05:335][202]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2021.04.28-05.15.05:335][202]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2021.04.28-05.15.05:336][202]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2021.04.28-05.15.05:336][202]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2021.04.28-05.15.05:340][202]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2021.04.28-05.15.05:353][202]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2021.04.28-05.15.05:353][202]LogHMD: Freeing OpenVRDLLHandle.
+[2021.04.28-05.15.05:353][202]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2021.04.28-05.15.05:353][202]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2021.04.28-05.15.05:353][202]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2021.04.28-05.15.05:353][202]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2021.04.28-05.15.05:353][202]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2021.04.28-05.15.05:353][202]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2021.04.28-05.15.05:368][202]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2021.04.28-05.15.05:417][202]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2021.04.28-05.15.05:417][202]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.04.28-05.15.05:417][202]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6ADE66C-4616-F85A-E247-4FB6F39AFB2C%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.23.1-0%2B%2B%2BUE4%2BRelease-4.23&UserID=2ea250e04f17ace44aeb389eab69114a%7C9de2ba2eab3544bbb26953b28a0ce5d5%7Cf305de10-66ce-42af-97b4-df6ddf37688c&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2021.04.28-05.15.05:431][202]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2021.04.28-05.15.05:432][202]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2021.04.28-05.15.05:444][202]LogModuleManager: Shutting down and abandoning module Media (51)
+[2021.04.28-05.15.05:445][202]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2021.04.28-05.15.05:445][202]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2021.04.28-05.15.05:445][202]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2021.04.28-05.15.05:445][202]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2021.04.28-05.15.05:445][202]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.04.28-05.15.05:445][202]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.04.28-05.15.05:445][202]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.04.28-05.15.05:447][202]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.04.28-05.15.05:447][202]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.28-05.15.05:447][202]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.28-05.15.05:447][202]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.28-05.15.05:447][202]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.28-05.15.05:448][202]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.28-05.15.05:464][202]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.28-05.15.05:464][202]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.28-05.15.05:464][202]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.28-05.15.05:465][202]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.28-05.15.05:465][202]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.28-05.15.05:465][202]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.28-05.15.05:483][202]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.28-05.15.05:483][202]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.28-05.15.05:483][202]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.28-05.15.05:483][202]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.28-05.15.05:483][202]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.28-05.15.05:486][202]LogD3D11RHI: Shutdown
+[2021.04.28-05.15.05:486][202]LogD3D11RHI: CleanupD3DDevice
+[2021.04.28-05.15.05:498][202]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.04.28-05.15.05:498][202]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.04.28-05.15.05:498][202]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.04.28-05.15.05:766][202]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.04.28-05.15.05:781][202]LogExit: Exiting.
+[2021.04.28-05.15.05:797][202]Log file closed, 04/28/21 14:15:05
