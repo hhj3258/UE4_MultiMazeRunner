@@ -1,2 +1,43 @@
-# UE4_MultiMazeRunner
-UE4_MultiMazeRunner
+# UE4 Dedicated Server기반 멀티 게임 MultiMazeRunner
+
+
+## 개요
+![image](https://user-images.githubusercontent.com/70702088/116786919-43166400-aadc-11eb-99e5-b110005b948a.png)
+![image](https://user-images.githubusercontent.com/70702088/116786938-5d504200-aadc-11eb-85f4-8e47ccb15229.png)
+![image](https://user-images.githubusercontent.com/70702088/116786949-6e00b800-aadc-11eb-894c-b6b48b73aea9.png)
+
+## 구현 기술 & 특징
+### 블루프린트
+![image](https://user-images.githubusercontent.com/70702088/116786980-8ec90d80-aadc-11eb-8d6d-54cccb67aa6b.png)
+![image](https://user-images.githubusercontent.com/70702088/116786990-9c7e9300-aadc-11eb-8ede-f04d17988b91.png)
+![image](https://user-images.githubusercontent.com/70702088/116786997-a0aab080-aadc-11eb-8870-789394a6865e.png)
+
+### AI
+![image](https://user-images.githubusercontent.com/70702088/116787110-3d6d4e00-aadd-11eb-9ba7-d8f3962cf53a.png)
+![image](https://user-images.githubusercontent.com/70702088/116787037-d2237c00-aadc-11eb-85cc-7e2a5a474121.png)
+![image](https://user-images.githubusercontent.com/70702088/116787031-cb950480-aadc-11eb-95d7-bb918f87c7b7.png)
+![image](https://user-images.githubusercontent.com/70702088/116787038-d8b1f380-aadc-11eb-9870-dd01b3e69667.png)
+
+### 게임 디자인
+![image](https://user-images.githubusercontent.com/70702088/116787078-0860fb80-aadd-11eb-8c65-bf13aaa76f98.png)
+![image](https://user-images.githubusercontent.com/70702088/116787081-0bf48280-aadd-11eb-868a-e83021d69938.png)
+![image](https://user-images.githubusercontent.com/70702088/116787070-0434de00-aadd-11eb-9c7d-38f8eaa75414.png)
+
+### 애니메이션
+![image](https://user-images.githubusercontent.com/70702088/116787174-b10f5b00-aadd-11eb-9199-2e63065a76fd.png)
+
+
+### 조작법
+- 두 명의 플레이어가 맵의 시작 지점에 스폰되어 쫓아오는 AI 몹을 피해 먼저 미로를 빠져나가는 것이 목적입니다.
+- W,A,S,D 를 통해 앞, 왼쪽, 뒤, 오른쪽으로 움직일 수 있으며 Shift키를 통해서 달리기가 가능합니다.
+
+## 역할분담
+김재혁
+- 게임 맵 제작
+- AI Enemy제작
+- 게임 기획
+
+홍현준
+- 서버-클라이언트 구조 적용
+- 애니메이션 적용
+- 게임 기획
