@@ -4,10 +4,11 @@
 
 ## 개요
 ![image](https://user-images.githubusercontent.com/70702088/116786919-43166400-aadc-11eb-99e5-b110005b948a.png)
-![image](https://user-images.githubusercontent.com/70702088/116786938-5d504200-aadc-11eb-85f4-8e47ccb15229.png)
-![image](https://user-images.githubusercontent.com/70702088/116787647-3dbb1880-aae0-11eb-8bc4-8833e140a010.png)
+
 
 ## 구현 기술 & 특징
+![image](https://user-images.githubusercontent.com/70702088/116786938-5d504200-aadc-11eb-85f4-8e47ccb15229.png)
+![image](https://user-images.githubusercontent.com/70702088/116787647-3dbb1880-aae0-11eb-8bc4-8833e140a010.png)
 ### 블루프린트
 ![image](https://user-images.githubusercontent.com/70702088/116787374-925d9400-aade-11eb-97bd-66df78ec17d1.png)
 ![image](https://user-images.githubusercontent.com/70702088/116786990-9c7e9300-aadc-11eb-8ede-f04d17988b91.png)
