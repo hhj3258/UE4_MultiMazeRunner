@@ -4,7 +4,7 @@
 ## 개요
 ![image](https://user-images.githubusercontent.com/70702088/116786919-43166400-aadc-11eb-99e5-b110005b948a.png)
 ![image](https://user-images.githubusercontent.com/70702088/116786938-5d504200-aadc-11eb-85f4-8e47ccb15229.png)
-![image](https://user-images.githubusercontent.com/70702088/116786949-6e00b800-aadc-11eb-894c-b6b48b73aea9.png)
+![image](https://user-images.githubusercontent.com/70702088/116787647-3dbb1880-aae0-11eb-8bc4-8833e140a010.png)
 
 ## 구현 기술 & 특징
 ### 블루프린트
@@ -24,18 +24,18 @@
 ![image](https://user-images.githubusercontent.com/70702088/116787070-0434de00-aadd-11eb-9c7d-38f8eaa75414.png)
 
 ### 애니메이션
-![image](https://user-images.githubusercontent.com/70702088/116787174-b10f5b00-aadd-11eb-9199-2e63065a76fd.png)
+![image](https://user-images.githubusercontent.com/70702088/116787599-e0bf6280-aadf-11eb-88b5-1812ac36c26d.png)
 - 애니메이션 몽타주 설정
 - 캐릭터의 무기 타격 범위 조정
 - 노티파이 타임라인 설정을 통해서 해당 공격 애니메이션 실행 시에 Deal Damage 블루프린트를 통해 타격 범위 및 시간을 적절히 조정
 
 
-### 조작법
+## 조작법
 - 두 명의 플레이어가 맵의 시작 지점에 스폰되어 쫓아오는 AI 몹을 피해 먼저 미로를 빠져나가는 것이 목표입니다.
 - W,A,S,D 를 통해 앞, 왼쪽, 뒤, 오른쪽으로 움직일 수 있으며 Shift키를 통해서 달리기가 가능합니다.
 - 마우스 좌 클릭으로 공격이 가능합니다.
 
-### 참고사항
+## 참고사항
 언리얼엔진 Ver.4.23.1을 서버용으로 재빌드하여 제작하였습니다.
 
 
