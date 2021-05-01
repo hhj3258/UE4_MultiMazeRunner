@@ -1,5 +1,5 @@
 # UE4 Dedicated Server기반 멀티 게임 MultiMazeRunner
-### [Youtube Link](https://www.youtube.com/watch?v=7MpnQJNhdzQ)
+### [Preview Youtube Link](https://www.youtube.com/watch?v=7MpnQJNhdzQ)
 
 ## 개요
 ![image](https://user-images.githubusercontent.com/70702088/116786919-43166400-aadc-11eb-99e5-b110005b948a.png)
