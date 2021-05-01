@@ -1,5 +1,5 @@
 # UE4 Dedicated Server기반 멀티 게임 MultiMazeRunner
-
+### [Youtube Link](https://www.youtube.com/watch?v=7MpnQJNhdzQ)
 
 ## 개요
 ![image](https://user-images.githubusercontent.com/70702088/116786919-43166400-aadc-11eb-99e5-b110005b948a.png)
@@ -8,7 +8,7 @@
 
 ## 구현 기술 & 특징
 ### 블루프린트
-![image](https://user-images.githubusercontent.com/70702088/116786980-8ec90d80-aadc-11eb-8d6d-54cccb67aa6b.png)
+![image](https://user-images.githubusercontent.com/70702088/116787374-925d9400-aade-11eb-97bd-66df78ec17d1.png)
 ![image](https://user-images.githubusercontent.com/70702088/116786990-9c7e9300-aadc-11eb-8ede-f04d17988b91.png)
 ![image](https://user-images.githubusercontent.com/70702088/116786997-a0aab080-aadc-11eb-8870-789394a6865e.png)
 
@@ -25,13 +25,21 @@
 
 ### 애니메이션
 ![image](https://user-images.githubusercontent.com/70702088/116787174-b10f5b00-aadd-11eb-9199-2e63065a76fd.png)
+- 애니메이션 몽타주 설정
+- 캐릭터의 무기 타격 범위 조정
+- 노티파이 타임라인 설정을 통해서 해당 공격 애니메이션 실행 시에 Deal Damage 블루프린트를 통해 타격 범위 및 시간을 적절히 조정
 
 
 ### 조작법
-- 두 명의 플레이어가 맵의 시작 지점에 스폰되어 쫓아오는 AI 몹을 피해 먼저 미로를 빠져나가는 것이 목적입니다.
+- 두 명의 플레이어가 맵의 시작 지점에 스폰되어 쫓아오는 AI 몹을 피해 먼저 미로를 빠져나가는 것이 목표입니다.
 - W,A,S,D 를 통해 앞, 왼쪽, 뒤, 오른쪽으로 움직일 수 있으며 Shift키를 통해서 달리기가 가능합니다.
+- 마우스 좌 클릭으로 공격이 가능합니다.
 
-## 역할분담
+### 참고사항
+언리얼엔진 Ver.4.23.1을 서버용으로 재빌드하여 제작하였습니다.
+
+
+## 개발
 김재혁
 - 게임 맵 제작
 - AI Enemy제작
