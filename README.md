@@ -1,4 +1,5 @@
 # UE4 Dedicated Server기반 멀티 게임 MultiMazeRunner
+### 알 수 없는 이유로 미로에 갇힌 2명의 플레이어가 AI 로봇들을 물리치며 골인 지점까지 도달하지만 그 끝에 있는 것은…
 ### [Preview Youtube Link](https://www.youtube.com/watch?v=7MpnQJNhdzQ)
 
 ## 개요
