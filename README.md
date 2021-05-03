@@ -1,9 +1,25 @@
-# UE4 Dedicated Server기반 멀티 게임 MultiMazeRunner
+# UE4 Dedicated Server기반 멀티플레이 게임 'MultiMazeRunner'
 ### [Preview Youtube Link](https://www.youtube.com/watch?v=7MpnQJNhdzQ)
+
+## 개발 기간
+2020년 11월 ~ 12월 (2개월)
+
+## 역할분담
+
+홍현준
+- 서버-클라이언트 구조 적용
+- 애니메이션 및 노티파이 적용
+- 게임 기획
+
+김재혁
+- 게임 맵 제작
+- AI Enemy 제작
+- 게임 기획
 
 ## 개요
 ### 알 수 없는 이유로 미로에 갇힌 2명의 플레이어가 AI 로봇들을 물리치며 골인 지점까지 도달하지만 그 끝에 있는 것은…
 ![image](https://user-images.githubusercontent.com/70702088/116786919-43166400-aadc-11eb-99e5-b110005b948a.png)
+
 
 ## 구현 기술 & 특징
 ### 멀티플레이
@@ -46,13 +62,3 @@
 
 AWS EC2 가상서버 위에서 서버 구동 및 원활한 접속이 가능합니다.
 
-## 개발
-김재혁
-- 게임 맵 제작
-- AI Enemy제작
-- 게임 기획
-
-홍현준
-- 서버-클라이언트 구조 적용
-- 애니메이션 적용
-- 게임 기획
